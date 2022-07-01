@@ -1,0 +1,15 @@
+E:\Julia\Csharp\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.exe
+E:\Julia\Csharp\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.deps.json
+E:\Julia\Csharp\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.runtimeconfig.json
+E:\Julia\Csharp\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.dll
+E:\Julia\Csharp\meuPrimeiroProjeto\bin\Debug\net6.0\meuPrimeiroProjeto.pdb
+E:\Julia\Csharp\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.csproj.AssemblyReference.cache
+E:\Julia\Csharp\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+E:\Julia\Csharp\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.AssemblyInfoInputs.cache
+E:\Julia\Csharp\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.AssemblyInfo.cs
+E:\Julia\Csharp\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+E:\Julia\Csharp\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.dll
+E:\Julia\Csharp\meuPrimeiroProjeto\obj\Debug\net6.0\refint\meuPrimeiroProjeto.dll
+E:\Julia\Csharp\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.pdb
+E:\Julia\Csharp\meuPrimeiroProjeto\obj\Debug\net6.0\meuPrimeiroProjeto.genruntimeconfig.cache
+E:\Julia\Csharp\meuPrimeiroProjeto\obj\Debug\net6.0\ref\meuPrimeiroProjeto.dll
