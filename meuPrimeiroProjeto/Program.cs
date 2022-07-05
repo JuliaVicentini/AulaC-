@@ -12,15 +12,31 @@ namespace meuPrimeiroProjeto
             
             Console.WriteLine("A conta é do (a) " + contaDaJulia.Titular + 
             ", a agência é " + contaDaJulia.Agencia + " e o número é " 
-            + contaDaJulia.Numero + ".");
+            + contaDaJulia.Numero + "Saldo: " + contaDaJulia.Saldo + ".");
 
             Console.WriteLine("A conta é do (a) " + contaDaFernanda.Titular + 
             ", a agência é " + contaDaFernanda.Agencia + " e o número é " 
-            + contaDaFernanda.Numero + ".");
+            + contaDaFernanda.Numero + "Saldo: " + contaDaFernanda.Saldo  + ".");
 
             Console.WriteLine("A conta é do (a) " + contaDaRoberta.Titular + 
             ", a agência é " + contaDaRoberta.Agencia + " e o número é " 
-            + contaDaRoberta.Numero + ".");
+            + contaDaRoberta.Numero +  "Saldo: " + contaDaRoberta.Saldo + ".");
+
+            bool sacar_conta1 = contaDaJulia.Sacar(100);
+            bool sacar_conta2 = contaDaFernanda.Sacar(100);
+            bool sacar_conta3 = contaDaRoberta.Sacar(100);
+
+            Console.WriteLine("A conta é do (a) " + contaDaJulia.Titular + 
+            ", a agência é " + contaDaJulia.Agencia + " e o número é " 
+            + contaDaJulia.Numero + "Saldo: " + contaDaJulia.Saldo + ".");
+
+            Console.WriteLine("A conta é do (a) " + contaDaFernanda.Titular + 
+            ", a agência é " + contaDaFernanda.Agencia + " e o número é " 
+            + contaDaFernanda.Numero + "Saldo: " + contaDaFernanda.Saldo  + ".");
+
+            Console.WriteLine("A conta é do (a) " + contaDaRoberta.Titular + 
+            ", a agência é " + contaDaRoberta.Agencia + " e o número é " 
+            + contaDaRoberta.Numero +  "Saldo: " + contaDaRoberta.Saldo + ".");
         }
     }
 }

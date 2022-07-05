@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m8r2nXflz+0CJ42560mGFn28m0LSI9rzXu3O3dtRDsqVXqyh8QT/oheG7sE4rlZwHSJmhWUqFzeDcSt3Jrs0OQ==",
+  "dgSpecHash": "c0iH+5FFDtF6eBFP9wZE/DCKEnz3ItOwmX+YEquzvGEKh8WbUAshKGI0f2AjqcDFikqvXZjfBf2BhekN2vvUsQ==",
   "success": true,
-  "projectFilePath": "E:\\Julia\\Csharp\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj",
+  "projectFilePath": "E:\\Julia\\AulaCSharp\\meuPrimeiroProjeto\\meuPrimeiroProjeto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
